@@ -1,0 +1,27 @@
+{
+  "private": "true",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@thirdweb-dev/react": "3.14.28",
+    "@thirdweb-dev/sdk": "3.10.47",
+    "ethers": "^5",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "ws": "8.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest",
+    "eslint": "^8.29.0",
+    "eslint-config-next": "^13"
+  },
+  "keywords": [],
+  "name": "next",
+  "description": ""
+}
